@@ -1,3 +1,5 @@
+
+  
 ### Simple resources to hit the ground running
 
 ## Command Line
@@ -21,3 +23,6 @@
 
 ## Spark
 **Learning Spark: Lightning-Fast Big Data Analysis** ([From $24](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632/ref=mt_paperback?_encoding=UTF8&me=) or included in [O'Reilly Safari Books Online](https://www.safaribooksonline.com/) Subscription $49/month) - **Book**
+
+
+  
