@@ -1,29 +1,19 @@
 
 
-# Simple resources to be set up to speed
+# Simple resources to hit the ground running
 
 ## Command Line
-**Online Course**
-
-[Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+[Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) - **Online Course**
 
 ## Git
-**Reference Guide**
-
-[Git - the simple guide - no deep shit](http://rogerdudler.github.io/git-guide/)
+[Git - the simple guide - no deep shit](http://rogerdudler.github.io/git-guide/) - **Reference Guide**
 
 ## SQL
-**Online Courses**
-
-[Learn SQL](https://www.codecademy.com/learn/learn-sql) at Codecademy
-[Try SQL](https://www.codeschool.com/learn/database) at CodeSchool
+[Learn SQL](https://www.codecademy.com/learn/learn-sql) at Codecademy - **Online Course**
+[Try SQL](https://www.codeschool.com/learn/database) at CodeSchool - **Online Course**
 
 ## Hadoop
-**Book**
-
-Hadoop: The Definitive Guide (From $24 or included in O'Reilly Safari Books Online Subscription $49/month)
+Hadoop: The Definitive Guide (From $24 or included in O'Reilly Safari Books Online Subscription $49/month) - **Book**
 
 ## Spark
-**Book**
-
-Learning Spark (From $31 or included in O'Reilly Safari Books Online Subscription $49/month)
+Learning Spark (From $31 or included in O'Reilly Safari Books Online Subscription $49/month) - **Book**
