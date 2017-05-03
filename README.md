@@ -1,4 +1,3 @@
-# Data Journey
   
 ### *Simple resources to hit the ground running*
   
