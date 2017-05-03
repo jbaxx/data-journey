@@ -14,7 +14,7 @@
 ## Python
 [Data Analyst](https://www.datacamp.com/tracks/data-analyst-with-python) or Data Scientist track at DataCamp
 
-Overall good grasp of Pandas (Data Structures), Numpy (Scientific and N-dimensional arrays) and Matplot (Data Visualization)
+*Overall good grasp of Pandas (Data Structures), Numpy (Scientific and N-dimensional arrays) and Matplot (Data Visualization)*
 
 ## Hadoop
 **Hadoop: The Definitive Guide** ([From $24](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632/ref=mt_paperback?_encoding=UTF8&me=) or included in [O'Reilly Safari Books Online](https://www.safaribooksonline.com/) Subscription $49/month) - **Book**
