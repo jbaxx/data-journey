@@ -1,7 +1,8 @@
-
+# Data Journey
   
-### Simple resources to hit the ground running
-
+### *Simple resources to hit the ground running*
+  
+  
 ## Command Line
 [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) - **Online Course**
 
