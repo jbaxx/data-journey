@@ -10,6 +10,7 @@
 
 ## SQL
 [Learn SQL](https://www.codecademy.com/learn/learn-sql) at Codecademy - **Online Course**
+
 [Try SQL](https://www.codeschool.com/learn/database) at CodeSchool - **Online Course**
 
 ## Hadoop
