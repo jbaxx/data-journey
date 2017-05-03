@@ -23,7 +23,7 @@
 **Hadoop: The Definitive Guide** ([From $24](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632/ref=mt_paperback?_encoding=UTF8&me=) or included in [O'Reilly Safari Books Online](https://www.safaribooksonline.com/) Subscription $49/month) - **Book**
 
 ## Spark
-**Learning Spark: Lightning-Fast Big Data Analysis** ([From $24](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632/ref=mt_paperback?_encoding=UTF8&me=) or included in [O'Reilly Safari Books Online](https://www.safaribooksonline.com/) Subscription $49/month) - **Book**
+**Learning Spark: Lightning-Fast Big Data Analysis** ([From $19](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624/ref=sr_1_1?s=books&ie=UTF8&qid=1493816049&sr=1-1&keywords=learning+spark) or included in [O'Reilly Safari Books Online](https://www.safaribooksonline.com/) Subscription $49/month) - **Book**
 
 
   
